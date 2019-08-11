@@ -1,4 +1,4 @@
-# Scalafix Rule - Better type inference for ADTs
+# Scalafix rules for Better Type Inference For ADTs
 
 Mixes `Product with Serializable` into `sealed trait`s and `sealed abstract class`es. Does not do anything if either of `Product` or `Serializable` is already mixed in since it assumes that this has been done on purpose.
 
