@@ -13,5 +13,4 @@ and then run it with `scalafix BetterTypeInferenceForAdts` from sbt or run direc
 ```bash
 scalafix --rules=github:DevInsideYou/better-type-inference-for-adts
 ```
-
 [![Watch on YouTube](resources/thumbnail_youtube.jpg)](https://youtu.be/uh7VFcOpu20 "Watch on YouTube")
